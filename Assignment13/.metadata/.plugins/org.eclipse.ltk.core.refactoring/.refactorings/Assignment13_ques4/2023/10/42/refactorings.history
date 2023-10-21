@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sunbeam.BufferedReader&apos; to &apos;Test&apos;&#x0A;- Original project: &apos;Assignment13_ques4&apos;&#x0A;- Original element: &apos;com.sunbeam.BufferedReader&apos;&#x0A;- Renamed element: &apos;com.sunbeam.Test&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BufferedReader&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.sunbeam{BufferedReader.java[BufferedReader" matchStrategy="1" name="Test" qualified="false" references="true" similarDeclarations="false" stamp="1697889915304" textual="false" version="1.0"/>
+</session>

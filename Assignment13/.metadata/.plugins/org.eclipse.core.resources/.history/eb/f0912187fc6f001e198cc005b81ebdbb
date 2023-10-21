@@ -1,0 +1,17 @@
+package com.sunbeam;
+
+import java.util.List;
+
+public class Test {
+	public static void WriteBook(List<Book>list)
+	{
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

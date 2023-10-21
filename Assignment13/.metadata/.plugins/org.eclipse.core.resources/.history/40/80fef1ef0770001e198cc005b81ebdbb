@@ -1,0 +1,17 @@
+package com.sunbeam;
+
+import java.io.BufferedReader;
+
+public class FileReaderMain {
+
+	public static void main(String[] args) {
+		try(FileReaderMain fr=new FileReaderMain("Parmar.txt")){
+			try(BufferedReader br=new BufferedReader(fr))
+			{
+				
+			}
+		}
+
+	}
+
+}

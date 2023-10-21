@@ -1,0 +1,31 @@
+package com.sunbeam;
+
+import java.io.FileOutputStream;
+import java.io.ObjectOutputStream;
+import java.util.List;
+
+public class Test {
+	public static void WriteBook(List<Book>list)
+	{
+		try(FileOutputStream fout=new FileOutputStream("Books.bin")){
+			try(ObjectOutputStream out=new ObjectOutputStream(fout))
+			{
+				for(Book b2:list)
+				{
+					
+				}
+			}
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

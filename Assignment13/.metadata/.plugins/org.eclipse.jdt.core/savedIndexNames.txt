@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/sunbeam/javapractice/day15/.metadata/.plugins/org.eclipse.jdt.core
+2553393808.index
+1865797976.index
+1901205413.index
+4013326854.index
+20505386.index
